@@ -1,11 +1,3 @@
-Absolutely — here is a **clean, professional, resume-friendly README.md** explaining your project, your LAMP deployment on EC2, your RDS integration, and your infrastructure steps, **without CloudFormation (since lab expired)**.
-
-You can copy-paste this directly into your GitHub repository.
-
----
-
-# 📘 **README.md for TinderJam2 — Two-Tier AWS Architecture (Student Project)**
-
 # 🚀 **TinderJam2 — Simple Two-Tier Web Application on AWS**
 
 TinderJam2 is a lightweight web application built using **HTML, CSS, PHP**, and **MariaDB/MySQL**.
